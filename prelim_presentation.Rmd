@@ -2,14 +2,19 @@
 title: "Golf Course Outreach"
 author: "Josh Gilman"
 date: "2024-02-12"
-output: html_document
+output: 
+  html_document
 ---
 
-
 <br>
 <br>
 
-
+```{r setup, include=FALSE}
+library(knitr)
+knit_hooks$set(output_file = function(x) {
+  "index.html"
+})
+```
 
 There are many ways to study sustainability, but we specialize in landscape sustainability, which focuses on studying and improving the relationships between landscape pattern and human well-being. To understand how we think about sustainability, you need to understand the landscape perspective.
 
