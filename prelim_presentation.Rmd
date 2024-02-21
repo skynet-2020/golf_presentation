@@ -16,14 +16,14 @@ knit_hooks$set(output_file = function(x) {
 })
 ```
 
-Our research lab studies landscape sustainability, which focuses on studying and improving the relationships between landscape pattern and human well-being. To understand how we think about sustainability, you need to understand the landscape perspective.
+We study landscape sustainability, which focuses on studying and improving the relationships between landscape pattern and human well-being. To understand how we think about sustainability, you need to understand the landscape perspective.
 
 ### The landscape perspective
 ```{r, echo = FALSE, fig.height = 8, fig.width = 12, fig.align = "center"}
 knitr::include_graphics("preliminary_images/Landscape_perspective_2.png")
 ```
 
-We can demonstrate the landscape perspective by examining a fictional landscape that resembles the Phoenix Metropolitan Area. This landscape is made up of many different features. In the background, you can see hills and mountains. At the foot of the mountains you see desert plants such as shrubs and cactus that serve as habitat for wildlife native to the Sonoran Desert. At the edge of the city, you begin to see elements that were built by humans like roads, houses, and agricultural fields. Moving in towards the center of the city you begin to see larger and taller buildings and more impervious surfaces. Each of these elements are like individual pieces of a patchwork quilt that have their own color and texture, but when viewed together they form a complete picture. All of the human and environmental elements in a landscape interact to form what we call a human-environmental system.
+We can demonstrate the landscape perspective by examining a fictional landscape that resembles the Phoenix Metropolitan Area. This landscape is made up of many different features. In the background, you can see hills and mountains. At the foot of the mountains you see desert plants such as shrubs and cactus that serve as habitat for wildlife native to the Sonoran Desert. At the edge of the city, you begin to see elements that were built by humans like roads, houses, and agricultural fields. Moving in towards the center of the city you begin to see larger and taller buildings and more impervious surfaces. Each of these elements are like individual pieces of a patchwork quilt that have their own color and texture, but when viewed together they form a complete picture. All of the human and environmental elements in a landscape interact to form a human-environmental system.
 
 The landscape perspective holds that the relative abundance of each landscape element (i.e., the amount of roads/houses/agricultural area/desert within the landscape) affects the sustainability of the region. Also, the spatial pattern of the landscape elements (i.e., their position relative to each other) impacts the sustainability of the region. <span style="color: red;"> [Examples?] </span>
 
@@ -109,21 +109,25 @@ Although golf courses are highly modified landscapes, they are still ecosystems 
 2. **Regulating services** can moderate or control ecosystem process, including regulating local climate, air pollution, erosion, pollination, and disease. 
 3. **Cultural services** are non-material benefits we receive from nature and can include recreation, tourism, spiritual benefits, and social benefits.
 
+<br>
+
 #### Ecosystem Services Provided by Golf Courses 
 <span style="color: red;"> [Create Icon for each ES] </span>
 
 1. **Climate regulating services.** Golf courses provide climate regulating services to golfers and people living in their immediate vicinity because irrigated turf changes the surface energy balance compared to impervious surfaces or natural desert. <span style="color: red;"> [COLLAGE OF PHOTOS: Phoenix golf courses near urban structures when it is sunny outside! (Arizona Grand Golf Course)] </span>
 2. **Air pollution regulating services.** Golf courses also provide air pollution regulating services to people living in the immediate vicinity--especially golf courses with tall trees. <span style="color: red;"> [COLLAGE OF PHOTOS: Phoenix golf courses with large trees (Biltmore?)] </span>
-3. **Aesthetic services?** <span style="color: red;"> [COLLAGE OF PHOTOS: Beautiful courses] </span>
-4. **Sense of place?**
-5. **Recreation** <span style="color: red;"> [COLLAGE OF PHOTOS: Golfers on the course] </span>
-6. **Good Social Relations**
+3. **Aesthetic services.** The aesthetic features of harmony, balance, rhythm, proportion, and emphasis are highlighted by golf course features. <span style="color: red;"> [COLLAGE OF PHOTOS: Beautiful courses] </span>
+4. **Recreation** In 2019, golfers in the Phoenix area played approximately 5.8 million rounds of golf, which translates to roughly 20 million hours of recreation time. Much of the time spent on golf courses is with friends or associates during casual rounds, golf leagues, or ameteur tournaments, which fosters good social relations and sense of place for Phoenix residents. <span style="color: red;"> [COLLAGE OF PHOTOS: Golfers on the course] </span>
 
-#### Water Use 
+Together, these benefits have high monetary values. The Arizona Alliance for Golf report estimated that the golf industry drove 4.6 billion USD worth of economic activity across the state of Arizona in the year 2019.
 
-1. what is the water use? not sustainable.
-2. solutions -- reduce water use
-3. <span style="color: red;"> [PHOTOS: turf reduction projects at Papago?] </span>
+<br>
+
+#### Golf Course Water Use 
+
+We found that golf courses in the Phoenix area collectively use an approximate annual average of 80,000 AF of water, which accounts for roughly 50% of industrial water use and 3–4% of the total water use in the Phoenix Active Management Area.  The largest source of water for golf courses is groundwater, which is being depleted more rapidly than it is being recharged in the Phoenix area. This amount of water use by golf courses in a dryland region is quite substantial and not environmentally sustainable because of the water shortages in the region. Thus, water saving measures must be implemented. One way to reduce golf course water use is turf reduction projects. Here are photos from a turf reduction project at Papago Golf Club.<span style="color: red;"> [PHOTOS: Papago redesign] </span> 
+
+<br>
 
 #### Distributive Environmental Injustice
 
@@ -152,17 +156,23 @@ knitr::include_graphics("preliminary_images/urban_course_2.jpg")
 <br>
 <br>
 
-#### Positive Vision for Desert Golf 
+### Positive Vision for Desert Golf 
 
-Next, we are going to close with an activity. We have created a positive vision for golf course design. Positive visions are designed to be [X,Y,Z]. The concept was developed for [urban sustainability] and we have adapted it for golf courses. Essentially, our positive vision is an aspirational golf course incorporating the sustainability recommendations that we have discussed today. 
+We have developed a 'positive vision' for desert golf course design that we would like to present. Positive visions are future scenarios designed to inspire motivation towards sustainability solutions in urban settings, and they can be a tool for bringing together diverse groups of stakeholders to discuss sustainability solutions. 
 
-[GOALS: share our vision, get feedback-How playable would this course be? How feasible would this be? What are the potential barriers?]
+[Details about the positive vision]
 
-[ACTIVITY BASED ON THIS]
-[multifunctional golf course]--accomplish many things at once!
+Here is what we seek to accomplish:
 
-TODO: 
-1.) Get photos
-2.) Get the positive vision
+1. Share an example of our sustainability recommendations
+2. Receive feedback from golf industry professionals about our sustainability recommendations.
+
+We hope to create a dialogue among ourselves and other groups involved in city planning and the golf industry to improve regional sustainability.
+
+#### Description of the activity
+
+1. Explain the positive vision (5 mins)
+2. 
+    * What are the barriers to designing a golf course like this? Would golfers want to play the course? Would the course be profitable? Is anything like this being done?
 
 
